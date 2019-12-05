@@ -1,6 +1,5 @@
 # Author: Ping-Jung Liu
 # Date: November 2nd 2017
-# COSC 76 Assignment 5: Hidden Markov Model
 # Acknowledgement: Professor Devin Balkom for providing structues and suggestions 
 
 ***README***
